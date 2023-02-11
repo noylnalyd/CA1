@@ -1,0 +1,10 @@
+/home/dslyon/CA1/CMakeFiles/main1.dir
+/home/dslyon/CA1/CMakeFiles/run.dir
+/home/dslyon/CA1/CMakeFiles/debug.dir
+/home/dslyon/CA1/CMakeFiles/release.dir
+/home/dslyon/CA1/CMakeFiles/runclean.dir
+/home/dslyon/CA1/CMakeFiles/distclean.dir
+/home/dslyon/CA1/CMakeFiles/strip_comments.dir
+/home/dslyon/CA1/CMakeFiles/info.dir
+/home/dslyon/CA1/CMakeFiles/edit_cache.dir
+/home/dslyon/CA1/CMakeFiles/rebuild_cache.dir
